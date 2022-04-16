@@ -6,7 +6,7 @@
  Site fictício de um Chalé Hotel criado no curso para trabalhar com links e colunas.
 
    <h1>
-    <img src="https://user-images.githubusercontent.com/93000587/163658920-b25d56cb-ec62-4c00-b244-7312d70b7241.gif">
+    <img src="https://user-images.githubusercontent.com/93000587/163661439-20eca905-8ac8-47cd-9112-dbf760ed767b.gif">
    </h1>
 
 
